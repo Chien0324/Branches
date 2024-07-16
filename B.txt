@@ -1,3 +1,4 @@
 hello, can I invite you to lunch ?
 hello, can I invite you to dinner ?
 hello, are you free after a long day? Let me invite you for a meal.
+hello, do you have a free date tomorrow evening, let me invite you for a meal.
